@@ -105,5 +105,4 @@ was draining profit:
 **Ranjan Sah** — Data Analyst
 📍 Bihar, India | Open to Data Analyst opportunities
 
-🔗 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ranjan-sah-6ab222239?utm_source=share_via&utm_content=profile&utm_medium=member_android)) 
-  · [GitHub]([your-github-url](https://github.com/ranjansah1)
+🔗 [LinkedIn]([https://www.linkedin.com/in/ranjan-sah?utm_source=share_via&utm_content=profile&utm_medium=member_android]
